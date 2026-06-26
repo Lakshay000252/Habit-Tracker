@@ -1,0 +1,262 @@
+.tracker-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.tracker-content {
+  flex: 1;
+  padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.tracker-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.tracker-header h2 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.tracker-date {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  margin: 0.25rem 0 0;
+}
+
+.tracker-quick-stats {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.tracker-stat-chip {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  padding: 0.4rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+/* Progress Bar */
+.tracker-progress-bar-container {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 1rem 1.25rem;
+}
+
+.tracker-progress-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.6rem;
+  font-size: 0.85rem;
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.tracker-progress-count {
+  color: var(--text-secondary);
+  font-weight: 400;
+}
+
+.tracker-progress-bar {
+  height: 8px;
+  background: var(--border-color);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.tracker-progress-fill {
+  height: 100%;
+  border-radius: 10px;
+}
+
+/* Stats Row */
+.tracker-stats-row {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.tracker-stat-box {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tracker-stat-cards {
+  display: flex;
+  gap: 0.75rem;
+  flex: 1;
+}
+
+.tracker-stat-card {
+  flex: 1;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tracker-stat-card div {
+  display: flex;
+  flex-direction: column;
+}
+
+.tracker-stat-card strong {
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.tracker-stat-card span {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
+/* Filters */
+.tracker-filters {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.tracker-filter-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: 1px solid var(--border-color);
+  background: var(--card-bg);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+
+.tracker-filter-btn.active {
+  background: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+}
+
+.tracker-filter-btn:hover:not(.active) {
+  border-color: var(--primary-color);
+  color: var(--text-primary);
+}
+
+/* List */
+.tracker-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.tracker-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  padding: 0.9rem 1.25rem;
+  transition: all 0.3s;
+}
+
+.tracker-item:hover {
+  border-color: var(--primary-color);
+}
+
+.tracker-item.completed {
+  opacity: 0.7;
+}
+
+.tracker-check {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  transition: transform 0.2s;
+}
+
+.tracker-check:hover {
+  transform: scale(1.1);
+}
+
+.tracker-item-info {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tracker-item-name {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.tracker-item.completed .tracker-item-name {
+  text-decoration: line-through;
+  color: var(--text-secondary);
+}
+
+.tracker-item-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.tracker-item-time {
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.tracker-item-streak {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 600px) {
+  .tracker-content {
+    padding: 1rem;
+    padding-top: 3.5rem;
+  }
+  .tracker-stats-row {
+    flex-direction: column;
+  }
+  .tracker-stat-cards {
+    width: 100%;
+  }
+  .tracker-item-info {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+}

@@ -1,0 +1,374 @@
+2026-06-22 10:06:31 [INFO]: Server running in development mode on port 5000
+2026-06-22 10:06:31 [INFO]: API Documentation: http://localhost:5000/api-docs
+2026-06-22 10:06:31 [INFO]: Health Check: http://localhost:5000/api/health
+2026-06-22 10:07:14 [INFO]: Server running in development mode on port 5000
+2026-06-22 10:07:14 [INFO]: API Documentation: http://localhost:5000/api-docs
+2026-06-22 10:07:14 [INFO]: Health Check: http://localhost:5000/api/health
+2026-06-22 10:07:14 [ERROR]: MongoDB Connection Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.xxxxx.mongodb.net
+2026-06-22 10:07:56 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:07:56 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:07:56 [INFO]: Server running in development mode on port 5000
+2026-06-22 10:07:56 [INFO]: API Documentation: http://localhost:5000/api-docs
+2026-06-22 10:07:56 [INFO]: Health Check: http://localhost:5000/api/health
+2026-06-22 10:09:33 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:09:33 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:09:33 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:09:33 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:09:33 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:10:14 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:10:15 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:10:15 [INFO]: Server running in development mode on port 5000
+2026-06-22 10:10:15 [INFO]: API Documentation: http://localhost:5000/api-docs
+2026-06-22 10:10:15 [INFO]: Health Check: http://localhost:5000/api/health
+2026-06-22 10:10:58 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:10:58 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:10:58 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:10:58 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:10:58 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:32:36 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:32:36 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:32:36 [INFO]: Server running in development mode on port 5000
+2026-06-22 10:32:36 [INFO]: API Documentation: http://localhost:5000/api-docs
+2026-06-22 10:32:36 [INFO]: Health Check: http://localhost:5000/api/health
+2026-06-22 10:33:24 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:33:24 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:33:24 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:33:24 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:33:24 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:34:04 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:34:04 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:34:04 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:34:04 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:34:04 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:34:39 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:34:39 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:34:39 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:34:39 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:34:39 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:34:56 [INFO]: ::1 - - [22/Jun/2026:05:04:56 +0000] "GET /api/health HTTP/1.1" 200 136 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 10:35:11 [INFO]: ::1 - - [22/Jun/2026:05:05:11 +0000] "POST /api/auth/register HTTP/1.1" - - "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 10:35:11 [ERROR]: Operation `users.findOne()` buffering timed out after 10000ms - /api/auth/register - POST
+2026-06-22 10:36:51 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:36:51 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:36:51 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:36:51 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:36:51 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:37:12 [WARN]: MongoDB URI not configured. API will not function without a database.
+2026-06-22 10:37:12 [INFO]: Set MONGO_URI in .env to connect to MongoDB Atlas or local instance.
+2026-06-22 10:37:12 [INFO]: Server running in development mode on port 5001
+2026-06-22 10:37:12 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 10:37:12 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 10:37:12 [INFO]: ::1 - - [22/Jun/2026:05:07:12 +0000] "GET /api/health HTTP/1.1" 200 135 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 10:37:19 [INFO]: ::1 - - [22/Jun/2026:05:07:19 +0000] "POST /api/auth/register HTTP/1.1" 503 154 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 10:40:42 [INFO]: ::1 - - [22/Jun/2026:05:10:42 +0000] "GET /api/health HTTP/1.1" 200 137 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 10:44:52 [INFO]: ::1 - - [22/Jun/2026:05:14:52 +0000] "POST /api/auth/register HTTP/1.1" 503 154 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 10:45:07 [INFO]: ::1 - - [22/Jun/2026:05:15:07 +0000] "POST /api/auth/register HTTP/1.1" 503 154 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:05:31 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-22 11:05:31 [INFO]: Server running in development mode on port 5001
+2026-06-22 11:05:31 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 11:05:31 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 11:05:31 [INFO]: In-memory MongoDB started
+2026-06-22 11:05:31 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-22 11:05:33 [INFO]: ::1 - - [22/Jun/2026:05:35:33 +0000] "GET /api/health HTTP/1.1" 200 131 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:05:39 [INFO]: ::1 - - [22/Jun/2026:05:35:39 +0000] "POST /api/auth/register HTTP/1.1" 201 652 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:05:40 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c742fdd411sm69466105ad.0 - gsmtp
+2026-06-22 11:05:44 [INFO]: ::1 - - [22/Jun/2026:05:35:44 +0000] "POST /api/auth/login HTTP/1.1" 200 640 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:07:49 [INFO]: ::1 - - [22/Jun/2026:05:37:49 +0000] "POST /api/auth/register HTTP/1.1" 201 657 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:07:51 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564ed9516sm6157236b3a.57 - gsmtp
+2026-06-22 11:08:30 [INFO]: ::1 - - [22/Jun/2026:05:38:30 +0000] "POST /api/habits HTTP/1.1" 400 190 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:09:15 [INFO]: ::1 - - [22/Jun/2026:05:39:15 +0000] "POST /api/habits HTTP/1.1" 400 190 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:09:50 [INFO]: ::1 - - [22/Jun/2026:05:39:50 +0000] "POST /api/ai/motivate HTTP/1.1" 200 147 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:11:00 [INFO]: ::1 - - [22/Jun/2026:05:41:00 +0000] "POST /api/habits HTTP/1.1" 400 190 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:39 [INFO]: ::1 - - [22/Jun/2026:05:42:39 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:39 [INFO]: ::1 - - [22/Jun/2026:05:42:39 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:39 [INFO]: ::1 - - [22/Jun/2026:05:42:39 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:39 [INFO]: ::1 - - [22/Jun/2026:05:42:39 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:41 [INFO]: ::1 - - [22/Jun/2026:05:42:41 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:41 [INFO]: ::1 - - [22/Jun/2026:05:42:41 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:41 [INFO]: ::1 - - [22/Jun/2026:05:42:41 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:12:41 [INFO]: ::1 - - [22/Jun/2026:05:42:41 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:14:07 [INFO]: ::1 - - [22/Jun/2026:05:44:07 +0000] "GET /api/health HTTP/1.1" 200 133 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:14:30 [INFO]: Server running in development mode on port 5001
+2026-06-22 11:14:30 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 11:14:30 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 11:14:35 [ERROR]: MongoDB Connection Error: connect ECONNREFUSED 127.0.0.1:58910
+2026-06-22 11:15:52 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-22 11:15:52 [INFO]: Server running in development mode on port 5001
+2026-06-22 11:15:52 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-22 11:15:52 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-22 11:15:53 [INFO]: In-memory MongoDB started
+2026-06-22 11:15:53 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-22 11:15:58 [INFO]: ::1 - - [22/Jun/2026:05:45:58 +0000] "GET /api/health HTTP/1.1" 200 132 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:16:06 [INFO]: ::1 - - [22/Jun/2026:05:46:06 +0000] "POST /api/habits HTTP/1.1" 401 64 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:16:14 [INFO]: ::1 - - [22/Jun/2026:05:46:14 +0000] "POST /api/auth/register HTTP/1.1" 201 652 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:16:14 [INFO]: ::1 - - [22/Jun/2026:05:46:14 +0000] "POST /api/habits HTTP/1.1" 201 424 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:16:16 [ERROR]: Achievement email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-37d4f2d2525sm6011306a91.11 - gsmtp
+2026-06-22 11:16:17 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564eca7fcsm6230919b3a.52 - gsmtp
+2026-06-22 11:16:20 [INFO]: ::1 - - [22/Jun/2026:05:46:20 +0000] "POST /api/auth/login HTTP/1.1" 200 640 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:16:20 [INFO]: ::1 - - [22/Jun/2026:05:46:20 +0000] "GET /api/habits HTTP/1.1" 200 442 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-22 11:17:52 [INFO]: ::1 - - [22/Jun/2026:05:47:52 +0000] "GET /api/habits HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:17:52 [INFO]: ::1 - - [22/Jun/2026:05:47:52 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:17:52 [INFO]: ::1 - - [22/Jun/2026:05:47:52 +0000] "GET /api/habits HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:17:52 [INFO]: ::1 - - [22/Jun/2026:05:47:52 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:06 [INFO]: ::1 - - [22/Jun/2026:05:48:06 +0000] "GET /api/habits HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:06 [INFO]: ::1 - - [22/Jun/2026:05:48:06 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:06 [INFO]: ::1 - - [22/Jun/2026:05:48:06 +0000] "GET /api/habits HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:06 [INFO]: ::1 - - [22/Jun/2026:05:48:06 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:23 [INFO]: ::1 - - [22/Jun/2026:05:48:23 +0000] "GET /api/habits HTTP/1.1" 401 76 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:23 [INFO]: ::1 - - [22/Jun/2026:05:48:23 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:23 [INFO]: ::1 - - [22/Jun/2026:05:48:23 +0000] "GET /api/habits HTTP/1.1" 401 76 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:18:23 [INFO]: ::1 - - [22/Jun/2026:05:48:23 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:19:07 [INFO]: ::1 - - [22/Jun/2026:05:49:07 +0000] "POST /api/auth/register HTTP/1.1" 201 656 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:19:09 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c743bfdc97sm75886085ad.65 - gsmtp
+2026-06-22 11:19:23 [INFO]: ::1 - - [22/Jun/2026:05:49:23 +0000] "POST /api/habits HTTP/1.1" 201 399 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:19:23 [INFO]: ::1 - - [22/Jun/2026:05:49:23 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:19:25 [ERROR]: Achievement email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564d89bf2sm6229207b3a.16 - gsmtp
+2026-06-22 11:21:08 [INFO]: ::1 - - [22/Jun/2026:05:51:08 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:22:06 [INFO]: ::1 - - [22/Jun/2026:05:52:06 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:35:05 [INFO]: ::1 - - [22/Jun/2026:06:05:05 +0000] "POST /api/auth/register HTTP/1.1" 400 69 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:35:35 [INFO]: ::1 - - [22/Jun/2026:06:05:35 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:35:50 [INFO]: ::1 - - [22/Jun/2026:06:05:50 +0000] "POST /api/habits HTTP/1.1" 201 401 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:35:50 [INFO]: ::1 - - [22/Jun/2026:06:05:50 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:35:59 [ERROR]: Invalid _id: undefined - /api/habits/undefined - DELETE
+2026-06-22 11:35:59 [INFO]: ::1 - - [22/Jun/2026:06:05:59 +0000] "DELETE /api/habits/undefined HTTP/1.1" 400 1548 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 11:45:02 [INFO]: ::1 - - [22/Jun/2026:06:15:02 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:01:53 [INFO]: ::1 - - [22/Jun/2026:06:31:53 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:11:06 [INFO]: ::1 - - [22/Jun/2026:06:41:06 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:03 [INFO]: ::1 - - [22/Jun/2026:06:42:03 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:03 [INFO]: ::1 - - [22/Jun/2026:06:42:03 +0000] "GET /api/habits HTTP/1.1" 200 756 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:03 [INFO]: ::1 - - [22/Jun/2026:06:42:03 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:17 [ERROR]: Invalid _id: undefined - /api/habits/undefined - DELETE
+2026-06-22 12:12:17 [INFO]: ::1 - - [22/Jun/2026:06:42:17 +0000] "DELETE /api/habits/undefined HTTP/1.1" 400 1548 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:52 [INFO]: ::1 - - [22/Jun/2026:06:42:52 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:53 [INFO]: ::1 - - [22/Jun/2026:06:42:53 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:12:53 [INFO]: ::1 - - [22/Jun/2026:06:42:53 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:13:34 [ERROR]: Invalid _id: undefined - /api/habits/undefined - DELETE
+2026-06-22 12:13:34 [INFO]: ::1 - - [22/Jun/2026:06:43:34 +0000] "DELETE /api/habits/undefined HTTP/1.1" 400 1548 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:18:16 [INFO]: ::1 - - [22/Jun/2026:06:48:16 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:18:16 [INFO]: ::1 - - [22/Jun/2026:06:48:16 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:18:23 [INFO]: ::1 - - [22/Jun/2026:06:48:23 +0000] "DELETE /api/habits/6a38d0be3999af9439ab997b HTTP/1.1" 200 80 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:18:23 [INFO]: ::1 - - [22/Jun/2026:06:48:23 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:18:27 [INFO]: ::1 - - [22/Jun/2026:06:48:27 +0000] "DELETE /api/habits/6a38cce33999af9439ab9967 HTTP/1.1" 200 80 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:18:27 [INFO]: ::1 - - [22/Jun/2026:06:48:27 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:20:02 [INFO]: ::1 - - [22/Jun/2026:06:50:02 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:20:02 [INFO]: ::1 - - [22/Jun/2026:06:50:02 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:20:32 [INFO]: ::1 - - [22/Jun/2026:06:50:32 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:20:32 [INFO]: ::1 - - [22/Jun/2026:06:50:32 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:28 [INFO]: ::1 - - [22/Jun/2026:06:51:28 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:28 [INFO]: ::1 - - [22/Jun/2026:06:51:28 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:28 [INFO]: ::1 - - [22/Jun/2026:06:51:28 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:45 [INFO]: ::1 - - [22/Jun/2026:06:51:45 +0000] "POST /api/habits HTTP/1.1" 201 399 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:45 [INFO]: ::1 - - [22/Jun/2026:06:51:45 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:55 [INFO]: ::1 - - [22/Jun/2026:06:51:55 +0000] "POST /api/habits HTTP/1.1" 201 406 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:21:55 [INFO]: ::1 - - [22/Jun/2026:06:51:55 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:22:01 [INFO]: ::1 - - [22/Jun/2026:06:52:01 +0000] "DELETE /api/habits/6a38db8b3999af9439ab99ee HTTP/1.1" 200 80 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:22:01 [INFO]: ::1 - - [22/Jun/2026:06:52:01 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:22:07 [INFO]: ::1 - - [22/Jun/2026:06:52:07 +0000] "DELETE /api/habits/6a38db813999af9439ab99e1 HTTP/1.1" 200 80 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:22:07 [INFO]: ::1 - - [22/Jun/2026:06:52:07 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:30:11 [INFO]: ::1 - - [22/Jun/2026:07:00:11 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:30:11 [INFO]: ::1 - - [22/Jun/2026:07:00:11 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:30:11 [INFO]: ::1 - - [22/Jun/2026:07:00:11 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:31:47 [INFO]: ::1 - - [22/Jun/2026:07:01:47 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:31:47 [INFO]: ::1 - - [22/Jun/2026:07:01:47 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:31:47 [INFO]: ::1 - - [22/Jun/2026:07:01:47 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:15 [INFO]: ::1 - - [22/Jun/2026:07:02:15 +0000] "POST /api/ai/motivate HTTP/1.1" 400 150 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:27 [INFO]: ::1 - - [22/Jun/2026:07:02:27 +0000] "POST /api/ai/motivate HTTP/1.1" 400 150 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:29 [INFO]: ::1 - - [22/Jun/2026:07:02:29 +0000] "POST /api/ai/motivate HTTP/1.1" 400 150 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:38 [INFO]: ::1 - - [22/Jun/2026:07:02:38 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:38 [INFO]: ::1 - - [22/Jun/2026:07:02:38 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:50 [INFO]: ::1 - - [22/Jun/2026:07:02:50 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-22 12:32:50 [INFO]: ::1 - - [22/Jun/2026:07:02:50 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 07:40:51 [INFO]: ::1 - - [23/Jun/2026:02:10:51 +0000] "POST /api/auth/login HTTP/1.1" 200 644 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 07:40:51 [INFO]: ::1 - - [23/Jun/2026:02:10:51 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 07:40:51 [INFO]: ::1 - - [23/Jun/2026:02:10:51 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 08:52:11 [INFO]: Server running in development mode on port 5001
+2026-06-23 08:52:11 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 08:52:11 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 08:52:14 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 08:52:14 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 08:52:17 [INFO]: In-memory MongoDB started
+2026-06-23 08:52:17 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 08:54:44 [INFO]: ::1 - - [23/Jun/2026:03:24:44 +0000] "GET /api/analytics/dashboard HTTP/1.1" 401 76 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:07:09 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:07:10 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:07:10 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:07:10 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:07:11 [INFO]: In-memory MongoDB started
+2026-06-23 09:07:11 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:07:31 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:07:31 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:07:31 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:07:34 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:07:34 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:07:36 [INFO]: In-memory MongoDB started
+2026-06-23 09:07:36 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:09:38 [INFO]: ::1 - - [23/Jun/2026:03:39:38 +0000] "GET /api/health HTTP/1.1" 200 153 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-23 09:10:34 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:10:34 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:10:34 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:10:37 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:10:37 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:10:38 [INFO]: In-memory MongoDB started
+2026-06-23 09:10:38 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:11:14 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:11:14 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:11:14 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:11:17 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:11:17 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:11:19 [INFO]: In-memory MongoDB started
+2026-06-23 09:11:19 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:11:58 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:11:58 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:11:58 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:12:01 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:12:01 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:12:03 [INFO]: In-memory MongoDB started
+2026-06-23 09:12:03 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:12:43 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:12:43 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:12:43 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:12:46 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:12:46 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:12:48 [INFO]: In-memory MongoDB started
+2026-06-23 09:12:48 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:14:00 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:14:00 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:14:00 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:14:03 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:14:03 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:14:05 [INFO]: In-memory MongoDB started
+2026-06-23 09:14:05 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:14:53 [INFO]: ::1 - - [23/Jun/2026:03:44:53 +0000] "GET /api/health HTTP/1.1" 200 152 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-23 09:26:55 [INFO]: Server running in development mode on port 5001
+2026-06-23 09:26:55 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-23 09:26:55 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-23 09:26:58 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-23 09:26:58 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-23 09:27:01 [INFO]: In-memory MongoDB started
+2026-06-23 09:27:01 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-23 09:27:11 [INFO]: ::1 - - [23/Jun/2026:03:57:11 +0000] "GET /api/health HTTP/1.1" 200 152 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"
+2026-06-23 09:38:24 [ERROR]: Not Found - / - / - GET
+2026-06-23 09:38:24 [INFO]: ::1 - - [23/Jun/2026:04:08:24 +0000] "GET / HTTP/1.1" 404 1460 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:38:24 [ERROR]: Not Found - /favicon.ico - /favicon.ico - GET
+2026-06-23 09:38:24 [INFO]: ::1 - - [23/Jun/2026:04:08:24 +0000] "GET /favicon.ico HTTP/1.1" 404 1482 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:40:35 [INFO]: ::1 - - [23/Jun/2026:04:10:35 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:41:21 [INFO]: ::1 - - [23/Jun/2026:04:11:21 +0000] "POST /api/auth/register HTTP/1.1" 201 651 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:41:21 [INFO]: ::1 - - [23/Jun/2026:04:11:21 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:41:21 [INFO]: ::1 - - [23/Jun/2026:04:11:21 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 09:41:23 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c744790a08sm106730835ad.84 - gsmtp
+2026-06-23 10:34:14 [INFO]: ::1 - - [23/Jun/2026:05:04:14 +0000] "POST /api/auth/register HTTP/1.1" 400 69 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:34:54 [INFO]: ::1 - - [23/Jun/2026:05:04:54 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:35:00 [INFO]: ::1 - - [23/Jun/2026:05:05:00 +0000] "POST /api/auth/login HTTP/1.1" 200 639 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:35:00 [INFO]: ::1 - - [23/Jun/2026:05:05:00 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:35:00 [INFO]: ::1 - - [23/Jun/2026:05:05:00 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:37:59 [INFO]: ::1 - - [23/Jun/2026:05:07:59 +0000] "POST /api/habits HTTP/1.1" 201 405 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:37:59 [INFO]: ::1 - - [23/Jun/2026:05:07:59 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:38:01 [ERROR]: Achievement email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c8bc326c487sm8703888a12.12 - gsmtp
+2026-06-23 10:38:36 [INFO]: ::1 - - [23/Jun/2026:05:08:36 +0000] "DELETE /api/habits/6a3a14af5e48797fb3500e6c HTTP/1.1" 200 80 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:38:36 [INFO]: ::1 - - [23/Jun/2026:05:08:36 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:39:12 [INFO]: ::1 - - [23/Jun/2026:05:09:12 +0000] "POST /api/habits HTTP/1.1" 201 396 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:39:13 [INFO]: ::1 - - [23/Jun/2026:05:09:13 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:42:01 [INFO]: ::1 - - [23/Jun/2026:05:12:01 +0000] "GET /api/habits HTTP/1.1" 200 414 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:42:01 [INFO]: ::1 - - [23/Jun/2026:05:12:01 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:42:21 [INFO]: ::1 - - [23/Jun/2026:05:12:21 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:42:21 [INFO]: ::1 - - [23/Jun/2026:05:12:21 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:42:43 [INFO]: ::1 - - [23/Jun/2026:05:12:43 +0000] "POST /api/ai/motivate HTTP/1.1" 200 185 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:43:41 [INFO]: ::1 - - [23/Jun/2026:05:13:41 +0000] "POST /api/ai/motivate HTTP/1.1" 200 176 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:43:48 [INFO]: ::1 - - [23/Jun/2026:05:13:48 +0000] "POST /api/ai/motivate HTTP/1.1" 200 178 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:43:50 [INFO]: ::1 - - [23/Jun/2026:05:13:50 +0000] "POST /api/ai/motivate HTTP/1.1" 200 178 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:43:52 [INFO]: ::1 - - [23/Jun/2026:05:13:52 +0000] "POST /api/ai/motivate HTTP/1.1" 200 176 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:45:02 [INFO]: ::1 - - [23/Jun/2026:05:15:02 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:45:02 [INFO]: ::1 - - [23/Jun/2026:05:15:02 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:45:15 [INFO]: ::1 - - [23/Jun/2026:05:15:15 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:45:15 [INFO]: ::1 - - [23/Jun/2026:05:15:15 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:46:20 [INFO]: ::1 - - [23/Jun/2026:05:16:20 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:46:20 [INFO]: ::1 - - [23/Jun/2026:05:16:20 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:46:35 [INFO]: ::1 - - [23/Jun/2026:05:16:35 +0000] "DELETE /api/habits/6a3a14f85e48797fb3500e85 HTTP/1.1" 200 80 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:46:35 [INFO]: ::1 - - [23/Jun/2026:05:16:35 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:48:28 [INFO]: ::1 - - [23/Jun/2026:05:18:28 +0000] "POST /api/auth/login HTTP/1.1" 200 639 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:48:28 [INFO]: ::1 - - [23/Jun/2026:05:18:28 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:48:28 [INFO]: ::1 - - [23/Jun/2026:05:18:28 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:48:50 [INFO]: ::1 - - [23/Jun/2026:05:18:50 +0000] "POST /api/ai/motivate HTTP/1.1" 200 178 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:48:51 [INFO]: ::1 - - [23/Jun/2026:05:18:51 +0000] "POST /api/ai/motivate HTTP/1.1" 200 178 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:48:53 [INFO]: ::1 - - [23/Jun/2026:05:18:53 +0000] "POST /api/ai/motivate HTTP/1.1" 200 147 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:12 [INFO]: ::1 - - [23/Jun/2026:05:25:12 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:13 [INFO]: ::1 - - [23/Jun/2026:05:25:13 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:17 [INFO]: ::1 - - [23/Jun/2026:05:25:17 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/achievements" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:17 [INFO]: ::1 - - [23/Jun/2026:05:25:17 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/achievements" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:17 [INFO]: ::1 - - [23/Jun/2026:05:25:17 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:17 [INFO]: ::1 - - [23/Jun/2026:05:25:17 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:17 [INFO]: ::1 - - [23/Jun/2026:05:25:17 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:55:17 [INFO]: ::1 - - [23/Jun/2026:05:25:17 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:56:14 [INFO]: ::1 - - [23/Jun/2026:05:26:14 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 10:56:14 [INFO]: ::1 - - [23/Jun/2026:05:26:14 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:27 [INFO]: ::1 - - [23/Jun/2026:05:42:27 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:27 [INFO]: ::1 - - [23/Jun/2026:05:42:27 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/achievements" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:12:32 [INFO]: ::1 - - [23/Jun/2026:05:42:32 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/achievements" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:28:58 [INFO]: ::1 - - [23/Jun/2026:05:58:58 +0000] "GET /api/habits HTTP/1.1" 503 114 "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 11:28:58 [INFO]: ::1 - - [23/Jun/2026:05:58:58 +0000] "GET /api/analytics/dashboard HTTP/1.1" 503 114 "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:19:22 [INFO]: ::1 - - [23/Jun/2026:06:49:22 +0000] "GET /api/habits HTTP/1.1" 200 81 "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:19:22 [INFO]: ::1 - - [23/Jun/2026:06:49:22 +0000] "GET /api/analytics/dashboard HTTP/1.1" 200 177 "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:19:40 [INFO]: ::1 - - [23/Jun/2026:06:49:40 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/achievements" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:19:40 [INFO]: ::1 - - [23/Jun/2026:06:49:40 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/achievements" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:20:25 [INFO]: ::1 - - [23/Jun/2026:06:50:25 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:20:25 [INFO]: ::1 - - [23/Jun/2026:06:50:25 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:12 [INFO]: ::1 - - [23/Jun/2026:06:54:12 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:12 [INFO]: ::1 - - [23/Jun/2026:06:54:12 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:13 [INFO]: ::1 - - [23/Jun/2026:06:54:13 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/daily-tracker" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:13 [INFO]: ::1 - - [23/Jun/2026:06:54:13 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/daily-tracker" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:14 [INFO]: ::1 - - [23/Jun/2026:06:54:14 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:14 [INFO]: ::1 - - [23/Jun/2026:06:54:14 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/calendar" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:16 [INFO]: ::1 - - [23/Jun/2026:06:54:16 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:16 [INFO]: ::1 - - [23/Jun/2026:06:54:16 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:18 [INFO]: ::1 - - [23/Jun/2026:06:54:18 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:18 [INFO]: ::1 - - [23/Jun/2026:06:54:18 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/profile" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:22 [INFO]: ::1 - - [23/Jun/2026:06:54:22 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:22 [INFO]: ::1 - - [23/Jun/2026:06:54:22 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:24 [INFO]: ::1 - - [23/Jun/2026:06:54:24 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:24 [INFO]: ::1 - - [23/Jun/2026:06:54:24 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:25 [INFO]: ::1 - - [23/Jun/2026:06:54:25 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:25 [INFO]: ::1 - - [23/Jun/2026:06:54:25 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/habits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:32 [INFO]: ::1 - - [23/Jun/2026:06:54:32 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 12:24:32 [INFO]: ::1 - - [23/Jun/2026:06:54:32 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:16:14 [INFO]: ::1 - - [23/Jun/2026:13:46:14 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:16:45 [INFO]: ::1 - - [23/Jun/2026:13:46:45 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:16:47 [INFO]: ::1 - - [23/Jun/2026:13:46:47 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:16:52 [INFO]: ::1 - - [23/Jun/2026:13:46:52 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:16:53 [INFO]: ::1 - - [23/Jun/2026:13:46:53 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:17:17 [INFO]: ::1 - - [23/Jun/2026:13:47:17 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:17:18 [INFO]: ::1 - - [23/Jun/2026:13:47:18 +0000] "POST /api/auth/login HTTP/1.1" 401 56 "http://localhost:3001/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:19:28 [INFO]: ::1 - - [23/Jun/2026:13:49:28 +0000] "POST /api/auth/register HTTP/1.1" 201 656 "http://localhost:3001/signup" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:19:29 [INFO]: ::1 - - [23/Jun/2026:13:49:29 +0000] "GET /api/habits HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:19:29 [INFO]: ::1 - - [23/Jun/2026:13:49:29 +0000] "GET /api/analytics/dashboard HTTP/1.1" 304 - "http://localhost:3001/dashboard" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:19:31 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c7436d6c16sm111304345ad.23 - gsmtp
+2026-06-23 19:20:15 [INFO]: ::1 - - [23/Jun/2026:13:50:15 +0000] "POST /api/ai/motivate HTTP/1.1" 200 176 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:20:22 [INFO]: ::1 - - [23/Jun/2026:13:50:22 +0000] "POST /api/ai/motivate HTTP/1.1" 200 147 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:20:26 [INFO]: ::1 - - [23/Jun/2026:13:50:26 +0000] "POST /api/ai/motivate HTTP/1.1" 200 176 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:20:37 [INFO]: ::1 - - [23/Jun/2026:13:50:37 +0000] "POST /api/ai/motivate HTTP/1.1" 200 166 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:20:50 [INFO]: ::1 - - [23/Jun/2026:13:50:50 +0000] "POST /api/ai/motivate HTTP/1.1" 200 162 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:21:07 [INFO]: ::1 - - [23/Jun/2026:13:51:07 +0000] "POST /api/ai/motivate HTTP/1.1" 200 170 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-23 19:22:11 [INFO]: ::1 - - [23/Jun/2026:13:52:11 +0000] "POST /api/ai/motivate HTTP/1.1" 200 185 "http://localhost:3001/ai-motivation" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0"
+2026-06-26 10:28:20 [INFO]: Server running in development mode on port 5001
+2026-06-26 10:28:20 [INFO]: API Documentation: http://localhost:5001/api-docs
+2026-06-26 10:28:20 [INFO]: Health Check: http://localhost:5001/api/health
+2026-06-26 10:28:23 [WARN]: Saved MongoDB URI is stale, starting new in-memory MongoDB
+2026-06-26 10:28:23 [INFO]: No external MongoDB configured. Starting in-memory MongoDB...
+2026-06-26 10:28:27 [INFO]: In-memory MongoDB started
+2026-06-26 10:28:27 [INFO]: MongoDB Connected: 127.0.0.1
+2026-06-26 10:29:06 [INFO]: ::1 - - [26/Jun/2026:04:59:06 +0000] "GET /api/health HTTP/1.1" 200 152 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.8655"

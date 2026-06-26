@@ -1,0 +1,60 @@
+2026-06-22 10:06:31 [ERROR]: MongoDB Connection Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.xxxxx.mongodb.net
+2026-06-22 10:07:14 [ERROR]: MongoDB Connection Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.xxxxx.mongodb.net
+2026-06-22 10:35:11 [ERROR]: Operation `users.findOne()` buffering timed out after 10000ms - /api/auth/register - POST
+2026-06-22 11:05:40 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c742fdd411sm69466105ad.0 - gsmtp
+2026-06-22 11:07:51 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564ed9516sm6157236b3a.57 - gsmtp
+2026-06-22 11:14:35 [ERROR]: MongoDB Connection Error: connect ECONNREFUSED 127.0.0.1:58910
+2026-06-22 11:16:16 [ERROR]: Achievement email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-37d4f2d2525sm6011306a91.11 - gsmtp
+2026-06-22 11:16:17 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564eca7fcsm6230919b3a.52 - gsmtp
+2026-06-22 11:19:09 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c743bfdc97sm75886085ad.65 - gsmtp
+2026-06-22 11:19:25 [ERROR]: Achievement email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-84564d89bf2sm6229207b3a.16 - gsmtp
+2026-06-22 11:35:59 [ERROR]: Invalid _id: undefined - /api/habits/undefined - DELETE
+2026-06-22 12:12:17 [ERROR]: Invalid _id: undefined - /api/habits/undefined - DELETE
+2026-06-22 12:13:34 [ERROR]: Invalid _id: undefined - /api/habits/undefined - DELETE
+2026-06-23 08:54:44 [ERROR]: Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:75:18)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Console.log (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\winston\lib\winston\transports\console.js:87:23)
+    at Console._write (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\winston-transport\modern.js:103:17)
+    at doWrite (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+2026-06-23 09:09:38 [ERROR]: Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:75:18)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Console.log (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\winston\lib\winston\transports\console.js:87:23)
+    at Console._write (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\winston-transport\modern.js:103:17)
+    at doWrite (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+2026-06-23 09:14:53 [ERROR]: Error: EPIPE: broken pipe, write
+    at Socket._write (node:internal/net:75:18)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Console.log (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\winston\lib\winston\transports\console.js:87:23)
+    at Console._write (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\winston-transport\modern.js:103:17)
+    at doWrite (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:390:139)
+    at writeOrBuffer (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:381:5)
+    at Writable.write (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_writable.js:302:11)
+    at DerivedLogger.ondata (C:\Users\intel\OneDrive\Desktop\habit app\habitai\backend\node_modules\readable-stream\lib\_stream_readable.js:629:20)
+2026-06-23 09:38:24 [ERROR]: Not Found - / - / - GET
+2026-06-23 09:38:24 [ERROR]: Not Found - /favicon.ico - /favicon.ico - GET
+2026-06-23 09:41:23 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c744790a08sm106730835ad.84 - gsmtp
+2026-06-23 10:38:01 [ERROR]: Achievement email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c8bc326c487sm8703888a12.12 - gsmtp
+2026-06-23 19:19:31 [ERROR]: Welcome email error: Invalid login: 535-5.7.8 Username and Password not accepted. For more information, go to
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2c7436d6c16sm111304345ad.23 - gsmtp

@@ -1,0 +1,232 @@
+.calendar-page {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.calendar-content {
+  flex: 1;
+  padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.calendar-stats {
+  display: flex;
+  gap: 1rem;
+}
+
+.cal-stat {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 1rem;
+}
+
+.cal-stat div {
+  display: flex;
+  flex-direction: column;
+}
+
+.cal-stat strong {
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.cal-stat span {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+/* Calendar */
+.calendar-container {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 18px;
+  padding: 1.5rem;
+}
+
+.calendar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+
+.calendar-header h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.cal-nav {
+  background: var(--hover-bg);
+  border: none;
+  color: var(--text-secondary);
+  padding: 0.5rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+}
+
+.cal-nav:hover {
+  background: var(--border-color);
+  color: var(--text-primary);
+}
+
+.calendar-weekdays {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.weekday {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  padding: 0.5rem 0;
+}
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.calendar-day {
+  aspect-ratio: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  position: relative;
+  cursor: default;
+  transition: all 0.2s;
+  gap: 2px;
+}
+
+.calendar-day.empty {
+  color: transparent;
+}
+
+.calendar-day.future {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+.calendar-day.today {
+  border: 2px solid var(--primary-color);
+  font-weight: 700;
+}
+
+.calendar-day.intensity-1 {
+  background: rgba(99, 102, 241, 0.15);
+}
+
+.calendar-day.intensity-2 {
+  background: rgba(99, 102, 241, 0.3);
+}
+
+.calendar-day.intensity-3 {
+  background: rgba(99, 102, 241, 0.5);
+  color: #fff;
+}
+
+.calendar-day.intensity-4 {
+  background: var(--primary-gradient);
+  color: #fff;
+  font-weight: 700;
+}
+
+.day-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #10b981;
+}
+
+.calendar-legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin-top: 1rem;
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+}
+
+.legend-box {
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 1px solid var(--border-color);
+}
+
+/* Streak Visualization */
+.streak-visualization {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 18px;
+  padding: 1.5rem;
+}
+
+.streak-visualization h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 1rem;
+}
+
+.streak-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12px, 1fr));
+  gap: 3px;
+}
+
+.streak-cell {
+  aspect-ratio: 1;
+  border-radius: 3px;
+  background: var(--border-color);
+}
+
+.streak-cell.intensity-1 { background: rgba(99, 102, 241, 0.15); }
+.streak-cell.intensity-2 { background: rgba(99, 102, 241, 0.3); }
+.streak-cell.intensity-3 { background: rgba(99, 102, 241, 0.5); }
+.streak-cell.intensity-4 { background: var(--primary-gradient); }
+.streak-cell.today { border: 1px solid var(--primary-color); }
+
+.streak-label {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.5rem;
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
+@media (max-width: 480px) {
+  .calendar-content {
+    padding: 1rem;
+    padding-top: 3.5rem;
+  }
+  .calendar-stats {
+    flex-direction: column;
+  }
+}
